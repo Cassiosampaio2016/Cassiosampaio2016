@@ -19,6 +19,8 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+
 ---
 
 ## 📚 Disciplinas do curso ADS
