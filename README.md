@@ -30,6 +30,7 @@
 
 ## 📚 Disciplinas do curso ADS
 
+* Algoritmos
 * Banco de Dados
 * Engenharia de Software
 * Arquitetura de Computadores
