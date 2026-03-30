@@ -23,16 +23,10 @@
 * Programação Orientada a Objetos
 * Estrutura de Dados
 
----
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cassiosampaio2016\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiosampaio2016\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🎯 Objetivo
 
-Construir projetos utilizando **React + TypeScript** e evoluir como **Desenvolvedor**.
+Construir projetos utilizando **Diversas ferramentas de tecnologia** e evoluir como **Desenvolvedor**.
